@@ -8,7 +8,7 @@ This is a python script that will add the corresponding taxIDs to each fasta hea
 
 
 ### 2. kraken2_report_parsing_functions.py
-This python script (used as a module) contains the functions used to parse kraken2 reports for: confirming the input path contains Kraken2 reports, extracting - for all reports in the input directory - the number of classified and unclassified reads (and percentages), calculating the total number of reads, and concatenating all kraken2 reports into a single dataframe for further analysis.
+This python module contains the functions used to parse kraken2 reports for: confirming the input path contains Kraken2 reports, extracting - for all reports in the input directory - the number of classified and unclassified reads (and percentages), calculating the total number of reads, and concatenating all kraken2 reports into a single dataframe for further analysis.
 
 
 ### 3. mitochondrial_allele_frequencies.py
