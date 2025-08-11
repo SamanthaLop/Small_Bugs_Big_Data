@@ -1,6 +1,8 @@
 # Small_Bugs_Big_Data
 Selected custom scripts used in the analysis of Malaise trap bulkDNA shotgun sequencing data, as part of the manuscript "Small Bugs, Big Data: Metagenomics for arthropod biodiversity monitoring" - for submission to Ecology and Evolution.
 
+The Kraken2 database used in this study is publicly available at 10.17044/scilifelab.29666605.
+
 ______
 
 ### 1. add_taxids_for_kraken2.py
